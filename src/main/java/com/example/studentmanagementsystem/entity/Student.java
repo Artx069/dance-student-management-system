@@ -16,14 +16,25 @@ public class Student {
     private String lastName;
     @Column(name = "email")
     private String email;
+    @Column(name = "class_name")
+    private String className;
 
     public Student() {
     }
 
-    public Student(String firstName, String lastName, String email) {
+    public Student(String firstName, String lastName, String email, String className) {
         this.firstName = firstName;
         this.lastName = lastName;
         this.email = email;
+        this.className = className;
+    }
+
+    public String getClassName() {
+        return className;
+    }
+
+    public void setClassName(String className) {
+        this.className = className;
     }
 
     public Long getId() {
