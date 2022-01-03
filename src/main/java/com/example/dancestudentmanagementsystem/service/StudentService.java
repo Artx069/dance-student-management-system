@@ -1,6 +1,6 @@
-package com.example.studentmanagementsystem.service;
+package com.example.dancestudentmanagementsystem.service;
 
-import com.example.studentmanagementsystem.entity.Student;
+import com.example.dancestudentmanagementsystem.entity.Student;
 
 import java.util.List;
 

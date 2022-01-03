@@ -1,7 +1,7 @@
-package com.example.studentmanagementsystem.controller;
+package com.example.dancestudentmanagementsystem.controller;
 
-import com.example.studentmanagementsystem.entity.Student;
-import com.example.studentmanagementsystem.service.StudentService;
+import com.example.dancestudentmanagementsystem.entity.Student;
+import com.example.dancestudentmanagementsystem.service.StudentService;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;

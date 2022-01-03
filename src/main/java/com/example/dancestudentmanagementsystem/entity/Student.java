@@ -1,4 +1,4 @@
-package com.example.studentmanagementsystem.entity;
+package com.example.dancestudentmanagementsystem.entity;
 
 import javax.persistence.*;
 

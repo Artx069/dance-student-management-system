@@ -1,8 +1,8 @@
-package com.example.studentmanagementsystem.service.impl;
+package com.example.dancestudentmanagementsystem.service.impl;
 
-import com.example.studentmanagementsystem.entity.Student;
-import com.example.studentmanagementsystem.repository.StudentRepository;
-import com.example.studentmanagementsystem.service.StudentService;
+import com.example.dancestudentmanagementsystem.entity.Student;
+import com.example.dancestudentmanagementsystem.repository.StudentRepository;
+import com.example.dancestudentmanagementsystem.service.StudentService;
 import org.springframework.stereotype.Service;
 
 import java.util.List;
